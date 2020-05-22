@@ -44,6 +44,9 @@ class UI {
           <div id="repos"></div>
       
       `;
+
+      
+    this.profile.scrollIntoView(true);
     }
 
     //Show user repos 

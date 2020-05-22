@@ -1,9 +1,9 @@
 //Instantiate the class we created on github.js
 
-const github = new Github;
+const github = new Github();
 
 //Instantiate the UI
-const ui = new UI; 
+const ui = new UI(); 
     
 //Search input
 
